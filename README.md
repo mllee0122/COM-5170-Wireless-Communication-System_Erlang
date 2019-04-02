@@ -1,1 +1,1 @@
-# COM-5170-Wureless-Communication-System_Erlang
+# COM-5170-Wireless-Communication-System_Erlang
